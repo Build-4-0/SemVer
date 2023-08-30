@@ -1,5 +1,5 @@
 # SemVer
-A Semantic Release repo to automate the release/tagging
+A Semantic Release repo to automate the release/tagging.
 
  # Commit message format for Semantic Release
 
