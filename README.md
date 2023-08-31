@@ -10,7 +10,7 @@ semantic-release uses the commit messages to determine the type of changes in th
 | Commit Message [MAJOR]                                                  | ReleaseType     | Format |
 | ------------------------------------------------------------------------|:---------------:| ------:|
 | **feat:** Adding new feature with major changes                         | Major Release   | 1.0.0  |
-| ***BREAKING CHANGE:*** Adding this changes will improve performance     |                 |        |
+| ***BREAKING CHANGE:*** Adding this changes will improve performance                                |
 
 
 | Commit Message [MINOR/FEATURE]                                          | ReleaseType     | Format |
