@@ -1,6 +1,6 @@
 {
     "name": "serm-ver",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "description": "Semantic Version removes the immediate connection between human emotions and version numbers, stricktly following the semantic versioning specification",
     "main": "index.js",
     "author": "Mrudul Kandoth",
